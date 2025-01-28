@@ -1,0 +1,1 @@
+The CSS property `filter: blur()` doesn't work as expected when applied to an element with a background-image that uses a data URI. The blur effect is not applied, or is only partially applied, resulting in a blurry background image that is different from the intended effect.
